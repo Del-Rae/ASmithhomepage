@@ -1,0 +1,30 @@
+body {
+	background-color: silver;
+}
+nav {
+	text-align: center;
+}
+header {
+	color: navy;
+	text-align: center;
+}
+p {
+	color: black;
+	text-align: center;
+}
+h2 {
+	color: black;
+	text-align: center
+}
+a:link {
+	color: black;
+}
+a:visited {
+	color: navy;
+}
+a:hover {
+	color: navy;
+}
+a:active{
+	color: black;
+}
