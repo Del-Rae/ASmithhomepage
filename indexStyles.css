@@ -1,11 +1,15 @@
 body {
 	background-color: silver;
+	padding:19px 40px 0px; 
+	border-width:2px; 
+	margin:50px; 
+	border-style:dotted
 }
 nav {
 	text-align: center;
 }
 header {
-	color: navy;
+	color: purple;
 	text-align: center;
 }
 p {
@@ -13,8 +17,16 @@ p {
 	text-align: center;
 }
 h2 {
-	color: black;
+	color: purple;
 	text-align: center
+}
+img.right{
+	border: double thick purple;
+	float: right;
+	margin:10px 0 10px 10px;
+}
+#footer{
+	color: navy;
 }
 a:link {
 	color: black;
@@ -28,7 +40,4 @@ a:hover {
 a:active{
 	color: black;
 }
-img {
-	text-align: right;
-}
-	
+
