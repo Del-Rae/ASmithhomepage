@@ -8,11 +8,7 @@ nav {
 	padding: 20px 15px 0 15px;
 	float: left;
 }
-img.right:hover{
-	width: 260px;
-	height: 200px;
-	transform: rotate(360deg);
-}
+
 nav ul {
 	font-weight: bold;
 	list-style: none;
@@ -52,6 +48,11 @@ img.right{
 	width: 400px;
 	height: 120px;
 	transition: width 4s, height 4s, transform 4s;
+}
+img.right:hover{
+	width: 260px;
+	height: 200px;
+	transform: rotate(360deg);
 }
 #footer{
 	color: black;
